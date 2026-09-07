@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.tmp
+*.bak
+*.log
+
+.env
+.env.*
+
+# Private portrait references are intentionally kept out of the public repo.
+natural-portrait-retouch/references/*.jpg
+natural-portrait-retouch/references/*.jpeg
+natural-portrait-retouch/references/*.png
+natural-portrait-retouch/references/*.webp
